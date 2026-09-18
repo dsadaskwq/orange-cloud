@@ -230,6 +230,82 @@
         }
       }
     },
+    "© 2026 柘家科技有限公司": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 Zhe Tech Co., Ltd."
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 柘家科技有限公司"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "© 2026 柘家科技有限公司"
+          }
+        }
+      }
+    },
     "·": {
       "localizations": {
         "ar": {
@@ -75882,6 +75958,82 @@
         }
       }
     },
+    "授权页面已失效，请重新发起登录。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "صفحة التفويض لم تعد صالحة. يرجى بدء تسجيل الدخول من جديد."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die Autorisierungsseite ist nicht mehr gültig. Bitte starte die Anmeldung erneut."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The authorization page is no longer valid. Please start signing in again."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La página de autorización ya no es válida. Vuelve a iniciar sesión."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La page d’autorisation n’est plus valide. Veuillez relancer la connexion."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "認証ページの有効期限が切れました。もう一度ログインしてください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인증 페이지가 만료되었습니다. 로그인을 다시 시작하세요."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A página de autorização não é mais válida. Inicie o login novamente."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A página de autorização deixou de ser válida. Inicie a sessão novamente."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yetkilendirme sayfası geçerliliğini yitirdi. Lütfen oturum açmayı yeniden başlatın."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授權頁面已失效，請重新發起登入。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "授權頁面已失效，請重新發起登入。"
+          }
+        }
+      }
+    },
     "授权请求包含 Cloudflare 尚未对本 App 开放的权限，无法完成登录。请更新到最新版本后重试。": {
       "localizations": {
         "ar": {
@@ -86217,6 +86369,766 @@
           "stringUnit": {
             "state": "translated",
             "value": "深色"
+          }
+        }
+      }
+    },
+    "TestFlight 优惠码申请": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "طلب رمز عرض TestFlight"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anfrage: TestFlight-Angebotscode"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight offer code request"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solicitud de código de oferta de TestFlight"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demande de code promotionnel TestFlight"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight割引コードの申請"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 할인 코드 신청"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Solicitação de código de oferta do TestFlight"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pedido de código de oferta do TestFlight"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight indirim kodu talebi"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 優惠碼申請"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 優惠碼申請"
+          }
+        }
+      }
+    },
+    "TestFlight 测试版即将停用": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "سيتوقف إصدار TestFlight قريبًا"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Die TestFlight-Version wird eingestellt"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The TestFlight build is being retired"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La versión de TestFlight dejará de funcionar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La version TestFlight va être retirée"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight版の提供を終了します"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 버전이 곧 종료됩니다"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A versão do TestFlight será descontinuada"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "A versão do TestFlight vai ser descontinuada"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight sürümü kullanımdan kaldırılıyor"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 測試版即將停用"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 測試版即將停用"
+          }
+        }
+      }
+    },
+    "前往 App Store": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الانتقال إلى App Store"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zum App Store"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Open the App Store"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ir a App Store"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aller sur l’App Store"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Storeを開く"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store로 이동"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir a App Store"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abrir a App Store"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "App Store’a git"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "前往 App Store"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "前往 App Store"
+          }
+        }
+      }
+    },
+    "发邮件领取优惠码": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اطلب رمز العرض بالبريد"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Code per E-Mail anfordern"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Email us for an offer code"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pedir código por correo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Demander un code par e-mail"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メールで割引コードを受け取る"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메일로 할인 코드 받기"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pedir código por e-mail"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pedir código por e-mail"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "E-posta ile kod iste"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "來信領取優惠碼"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "來信領取優惠碼"
+          }
+        }
+      }
+    },
+    "感谢你一路陪着测试。在 %@ 前来信，我们会回你一张 Pro 优惠码。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "شكرًا لمرافقتك لنا طوال فترة الاختبار. راسِلنا قبل %@ وسنرسل إليك رمز عرض للاشتراك Pro."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Danke fürs Testen. Schreib uns vor dem %@, dann schicken wir dir einen Pro-Angebotscode."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Thanks for testing along the way. Write to us before %@ and we will send you a Pro offer code."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gracias por acompañarnos en las pruebas. Escríbenos antes del %@ y te enviaremos un código de oferta de Pro."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Merci d’avoir participé aux tests. Écrivez-nous avant le %@ et nous vous enverrons un code promotionnel Pro."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テストにお付き合いいただきありがとうございます。%@ までにメールをいただければ、Proの割引コードをお送りします。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "그동안 테스트에 함께해 주셔서 감사합니다. %@ 전까지 메일을 보내주시면 Pro 할인 코드를 보내드립니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obrigado por testar conosco. Escreva para nós até %@ e enviaremos um código de oferta do Pro."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Obrigado por nos ter acompanhado nos testes. Escreva-nos até %@ e enviamos-lhe um código de oferta do Pro."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Test sürecinde bize eşlik ettiğiniz için teşekkürler. %@ tarihinden önce bize yazın, size bir Pro indirim kodu gönderelim."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "感謝你一路陪著測試。在 %@ 前來信，我們會回你一張 Pro 優惠碼。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "感謝你一路陪著測試。在 %@ 前來信，我們會回你一張 Pro 優惠碼。"
+          }
+        }
+      }
+    },
+    "我想领取 TestFlight 用户的 Pro 优惠码。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "أود الحصول على رمز عرض Pro المخصص لمختبري TestFlight."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich möchte den Pro-Angebotscode für TestFlight-Tester anfordern."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "I’d like to claim the Pro offer code for TestFlight testers."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quiero solicitar el código de oferta de Pro para quienes probaron en TestFlight."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Je souhaite obtenir le code promotionnel Pro réservé aux testeurs TestFlight."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlightユーザー向けのPro割引コードを希望します。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight 테스터용 Pro 할인 코드를 받고 싶습니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gostaria de solicitar o código de oferta do Pro para testadores do TestFlight."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gostaria de solicitar o código de oferta do Pro para quem testou no TestFlight."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "TestFlight test kullanıcıları için Pro indirim kodunu talep etmek istiyorum."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我想領取 TestFlight 使用者的 Pro 優惠碼。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我想領取 TestFlight 使用者的 Pro 優惠碼。"
+          }
+        }
+      }
+    },
+    "提醒：TestFlight 版本内的购买走 Apple 沙盒环境——订阅几分钟就会过期，也读不到你在 App Store 的真实购买。购买或恢复 Pro 请使用 App Store 版本。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ملاحظة: تتم عمليات الشراء داخل إصدار TestFlight في بيئة Apple التجريبية؛ إذ تنتهي صلاحية الاشتراكات خلال دقائق، ولا تظهر مشترياتك الفعلية من App Store. لشراء Pro أو استعادته، استخدم إصدار App Store."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hinweis: Käufe in einer TestFlight-Version laufen in Apples Sandbox – Abos laufen dort binnen Minuten ab, und echte App-Store-Käufe sind nicht sichtbar. Kaufe oder stelle Pro in der App-Store-Version wieder her."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Note: purchases inside a TestFlight build run in Apple’s sandbox — subscriptions expire within minutes, and real App Store purchases are not visible there. To buy or restore Pro, use the App Store version."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nota: las compras dentro de una versión de TestFlight usan el entorno de pruebas de Apple: las suscripciones caducan en minutos y no se ven tus compras reales de App Store. Para comprar o restaurar Pro, usa la versión de App Store."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Remarque : les achats effectués dans une version TestFlight passent par le bac à sable d’Apple — les abonnements y expirent en quelques minutes et vos achats réels sur l’App Store n’y sont pas visibles. Pour acheter ou restaurer Pro, utilisez la version de l’App Store."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "注意：TestFlight版での購入はAppleのサンドボックス環境で処理されます。サブスクリプションは数分で期限切れになり、App Storeでの実際の購入も反映されません。Proの購入や復元にはApp Store版をご利用ください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "참고: TestFlight 버전 내 구매는 Apple 샌드박스 환경에서 처리됩니다. 구독은 몇 분 만에 만료되고 App Store에서 한 실제 구매도 인식되지 않습니다. Pro 구매나 복원은 App Store 버전에서 해주세요."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atenção: compras dentro de uma versão do TestFlight usam o ambiente de testes da Apple — as assinaturas expiram em minutos e as compras reais da App Store não aparecem. Para comprar ou restaurar o Pro, use a versão da App Store."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Atenção: as compras numa versão do TestFlight usam o ambiente de testes da Apple — as subscrições expiram em minutos e as compras reais da App Store não são reconhecidas. Para comprar ou restaurar o Pro, utilize a versão da App Store."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not: TestFlight sürümündeki satın alımlar Apple’ın sandbox ortamında gerçekleşir; abonelikler dakikalar içinde sona erer ve App Store’daki gerçek satın alımlarınız görünmez. Pro’yu satın almak veya geri yüklemek için App Store sürümünü kullanın."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提醒：TestFlight 版本內的購買走 Apple 沙盒環境——訂閱幾分鐘就會過期，也讀不到你在 App Store 的實際購買。購買或恢復 Pro 請使用 App Store 版本。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "提醒：TestFlight 版本內的購買走 Apple 沙盒環境——訂閱幾分鐘就會過期，也讀不到你在 App Store 的實際購買。購買或恢復 Pro 請使用 App Store 版本。"
+          }
+        }
+      }
+    },
+    "稍后再说": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لاحقًا"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Später"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Not now"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ahora no"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus tard"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "あとで"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "나중에"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agora não"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Agora não"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daha sonra"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "稍後再說"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "稍後再說"
+          }
+        }
+      }
+    },
+    "这个测试版不再更新，%@ 之后会过期、无法再打开。App Store 版本一直在更新，功能与修复都在那边。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم يعد هذا الإصدار التجريبي يتلقى تحديثات، وستنتهي صلاحيته بعد %@ فلن يعود بالإمكان فتحه. أما إصدار App Store فيُحدَّث باستمرار، وفيه الميزات والإصلاحات."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Beta wird nicht mehr aktualisiert und läuft nach dem %@ ab; danach lässt sie sich nicht mehr öffnen. Die App-Store-Version wird laufend aktualisiert – dort gibt es die Funktionen und Fehlerbehebungen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This beta is no longer updated and expires after %@, after which it will not open. The App Store version keeps getting updates — that is where the features and fixes are."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta versión beta ya no se actualiza y expirará después del %@; a partir de entonces no podrá abrirse. La versión de App Store sigue recibiendo actualizaciones: ahí están las novedades y las correcciones."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette bêta n’est plus mise à jour et expirera après le %@ : elle ne s’ouvrira plus. La version de l’App Store continue d’évoluer, c’est là que se trouvent les nouveautés et les correctifs."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このベータ版は更新が終了しており、%@ を過ぎると期限切れとなり起動できなくなります。App Store版は更新が続いており、新機能や修正はそちらに入ります。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 베타 버전은 더 이상 업데이트되지 않으며 %@ 이후에는 만료되어 실행할 수 없습니다. App Store 버전은 계속 업데이트되며 새 기능과 수정 사항은 모두 그쪽에 있습니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta versão beta não recebe mais atualizações e expira depois de %@, quando deixará de abrir. A versão da App Store continua sendo atualizada — é lá que estão os recursos e as correções."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta versão beta já não é atualizada e expira depois de %@, deixando de abrir. A versão da App Store continua a ser atualizada — é aí que estão as funcionalidades e as correções."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu beta sürümü artık güncellenmiyor ve %@ tarihinden sonra süresi dolarak açılmayacak. App Store sürümü güncellenmeye devam ediyor; yeni özellikler ve düzeltmeler orada."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這個測試版不再更新，%@ 之後會過期、無法再開啟。App Store 版本持續更新，功能與修正都在那邊。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這個測試版不再更新，%@ 之後會過期、無法再開啟。App Store 版本持續更新，功能與修正都在那邊。"
+          }
+        }
+      }
+    },
+    "更多": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المزيد"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mehr"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "More"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Más"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Plus"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "その他"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "더 보기"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mais"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mais"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Daha Fazla"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更多"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "更多"
           }
         }
       }
@@ -105849,6 +106761,310 @@
           "stringUnit": {
             "state": "translated",
             "value": "新增觸發器"
+          }
+        }
+      }
+    },
+    "编辑触发规则": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تعديل قاعدة التشغيل"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trigger-Regel bearbeiten"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Edit Trigger Rule"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar regla de activación"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Modifier la règle de déclenchement"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トリガールールを編集"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "트리거 규칙 편집"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar regra de acionamento"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Editar regra de acionamento"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tetikleme kuralını düzenle"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "編輯觸發規則"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "編輯觸發規則"
+          }
+        }
+      }
+    },
+    "该规则已不存在，请刷新后重试。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لم تعد هذه القاعدة موجودة. حدِّث ثم أعد المحاولة."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese Regel existiert nicht mehr. Aktualisiere und versuche es erneut."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This rule no longer exists. Refresh and try again."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta regla ya no existe. Actualiza e inténtalo de nuevo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette règle n’existe plus. Actualisez, puis réessayez."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このルールは既に存在しません。更新してからやり直してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 규칙은 더 이상 존재하지 않습니다. 새로 고친 후 다시 시도하세요."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta regra não existe mais. Atualize e tente novamente."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta regra já não existe. Atualize e tente novamente."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu kural artık mevcut değil. Yenileyip tekrar deneyin."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此規則已不存在，請重新整理後再試。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此規則已不存在，請重新整理後再試。"
+          }
+        }
+      }
+    },
+    "轻点两下编辑规则": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "انقر مرتين لتعديل القاعدة"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Doppeltippen, um die Regel zu bearbeiten"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Double-tap to edit the rule"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pulsa dos veces para editar la regla"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toucher deux fois pour modifier la règle"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ダブルタップしてルールを編集"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "두 번 탭하여 규칙 편집"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toque duas vezes para editar a regra"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Toque duas vezes para editar a regra"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuralı düzenlemek için iki kez dokunun"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點兩下以編輯規則"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點兩下以編輯規則"
+          }
+        }
+      }
+    },
+    "规则用 Cloudflare Rules 表达式匹配请求，满足时运行此 Snippet。点按规则可编辑。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تطابق القواعد الطلبات باستخدام تعبيرات Cloudflare Rules؛ ويُشغَّل هذا الـ Snippet عند التطابق. انقر على قاعدة لتعديلها."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Regeln gleichen Anfragen mit Cloudflare-Rules-Ausdrücken ab; dieses Snippet wird bei einer Übereinstimmung ausgeführt. Tippe auf eine Regel, um sie zu bearbeiten."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rules match requests with Cloudflare Rules expressions; this snippet runs on a match. Tap a rule to edit it."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Las reglas coinciden con las solicitudes mediante expresiones de Cloudflare Rules; este snippet se ejecuta cuando hay coincidencia. Toca una regla para editarla."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Les règles font correspondre les requêtes via des expressions Cloudflare Rules ; ce snippet s’exécute en cas de correspondance. Touchez une règle pour la modifier."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ルールは Cloudflare Rules 式でリクエストを照合し、一致するとこのスニペットが実行されます。ルールをタップすると編集できます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "규칙은 Cloudflare Rules 표현식으로 요청을 일치시키며, 일치하면 이 Snippet이 실행됩니다. 규칙을 탭하면 편집할 수 있습니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As regras correspondem às solicitações com expressões do Cloudflare Rules; este snippet é executado quando há correspondência. Toque em uma regra para editá-la."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "As regras correspondem aos pedidos com expressões do Cloudflare Rules; este snippet é executado quando há correspondência. Toque numa regra para a editar."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kurallar, istekleri Cloudflare Rules ifadeleriyle eşleştirir; eşleşmede bu snippet çalışır. Düzenlemek için bir kurala dokunun."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "規則以 Cloudflare Rules 運算式比對請求，符合時執行此 Snippet。點按規則即可編輯。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "規則以 Cloudflare Rules 運算式比對請求，相符時執行此 Snippet。點按規則即可編輯。"
           }
         }
       }
@@ -138701,6 +139917,82 @@
         }
       }
     },
+    "部分周期数据需付费版 Cloudflare 账号，显示为 0 的项非加载失败": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "بعض بيانات الفترة تتطلب حساب Cloudflare مدفوعًا. العناصر التي تظهر 0 ليست أخطاء تحميل."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Einige Zeitraumdaten erfordern ein kostenpflichtiges Cloudflare-Konto. Einträge mit 0 sind keine Ladefehler."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Some period data requires a paid Cloudflare account. Items showing 0 aren’t load failures."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Algunos datos del periodo requieren una cuenta de pago de Cloudflare. Los elementos que muestran 0 no son errores de carga."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Certaines données de la période nécessitent un compte Cloudflare payant. Les éléments affichant 0 ne sont pas des échecs de chargement."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "一部の期間のデータには有料の Cloudflare アカウントが必要です。0 と表示される項目は読み込み失敗ではありません。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "일부 주기 데이터에는 유료 Cloudflare 계정이 필요합니다. 0으로 표시된 항목은 불러오기 실패가 아닙니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alguns dados do período exigem uma conta paga da Cloudflare. Os itens que mostram 0 não são falhas de carregamento."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alguns dados do período requerem uma conta paga da Cloudflare. Os itens que mostram 0 não são falhas de carregamento."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bazı dönem verileri ücretli bir Cloudflare hesabı gerektirir. 0 görünen öğeler yükleme hatası değildir."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "部分週期數據需付費版 Cloudflare 帳戶，顯示為 0 的項目並非載入失敗"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "部分週期資料需付費版 Cloudflare 帳號，顯示為 0 的項目並非載入失敗"
+          }
+        }
+      }
+    },
     "部分文件无法读取：": {
       "localizations": {
         "ar": {
@@ -166461,6 +167753,1298 @@
           "stringUnit": {
             "state": "translated",
             "value": "Bot Fight Mode"
+          }
+        }
+      }
+    },
+    "当前线上脚本 %@，超出手机端就地编辑的上限，已转为只读。可以导入改好的 .js 文件整体替换。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "حجم النص البرمجي الحالي %@ ويتجاوز حد التحرير على الجهاز، لذا فهو للقراءة فقط. يمكنك استيراد ملف .js معدَّل لاستبداله بالكامل."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das aktive Skript ist %@ groß und überschreitet die Grenze für die Bearbeitung auf dem Gerät; es ist daher schreibgeschützt. Du kannst eine bearbeitete .js-Datei importieren, um es vollständig zu ersetzen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The live script is %@, which exceeds the limit for editing on device, so it is read-only. You can import an edited .js file to replace it entirely."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El script en línea pesa %@ y supera el límite para editarlo en el dispositivo, así que es de solo lectura. Puedes importar un archivo .js modificado para reemplazarlo por completo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le script en ligne fait %@ et dépasse la limite d’édition sur l’appareil : il est donc en lecture seule. Vous pouvez importer un fichier .js modifié pour le remplacer entièrement."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "現在のスクリプトは %@ で、端末上で直接編集できる上限を超えるため読み取り専用になっています。編集済みの .js ファイルを読み込んで全体を置き換えられます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 스크립트는 %@ 로 기기에서 직접 편집할 수 있는 한도를 초과하여 읽기 전용입니다. 수정한 .js 파일을 가져와 전체를 교체할 수 있습니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O script em produção tem %@ e excede o limite para edição no dispositivo, por isso está somente leitura. Você pode importar um arquivo .js editado para substituí-lo por completo."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O script em produção tem %@ e excede o limite para edição no dispositivo, pelo que está apenas de leitura. Pode importar um ficheiro .js editado para o substituir por completo."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yayındaki betik %@ boyutunda ve cihaz üzerinde düzenleme sınırını aştığı için salt okunur. Düzenlediğiniz bir .js dosyasını içe aktararak tamamını değiştirebilirsiniz."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目前線上腳本 %@，超出在手機上直接編輯的上限，已轉為唯讀。可以匯入改好的 .js 檔案整份取代。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目前線上指令碼 %@，超出在手機上直接編輯的上限，已轉為唯讀。可以匯入改好的 .js 檔案整份取代。"
+          }
+        }
+      }
+    },
+    "当前线上脚本是压缩过的打包产物（%@，存在超长行），不适合在手机上就地编辑，已转为只读。可以导入改好的 .js 文件整体替换。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "النص البرمجي الحالي حزمة مصغَّرة (%@، وتحتوي على أسطر طويلة جدًا) لا تناسب التحرير على الجهاز، لذا فهو للقراءة فقط. يمكنك استيراد ملف .js معدَّل لاستبداله بالكامل."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Das aktive Skript ist ein minifiziertes Bundle (%@, mit sehr langen Zeilen) und eignet sich nicht zur Bearbeitung auf dem Gerät; es ist daher schreibgeschützt. Du kannst eine bearbeitete .js-Datei importieren, um es vollständig zu ersetzen."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "The live script is a minified bundle (%@, with very long lines), which is not suitable for editing on device, so it is read-only. You can import an edited .js file to replace it entirely."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "El script en línea es un paquete minificado (%@, con líneas muy largas) y no es apto para editarse en el dispositivo, así que es de solo lectura. Puedes importar un archivo .js modificado para reemplazarlo por completo."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Le script en ligne est un bundle minifié (%@, avec des lignes très longues), inadapté à l’édition sur l’appareil : il est donc en lecture seule. Vous pouvez importer un fichier .js modifié pour le remplacer entièrement."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "現在のスクリプトは圧縮されたバンドル（%@、極端に長い行を含む）で、端末上での直接編集に向かないため読み取り専用になっています。編集済みの .js ファイルを読み込んで全体を置き換えられます。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "현재 스크립트는 압축된 번들(%@, 매우 긴 줄 포함)이라 기기에서 직접 편집하기에 적합하지 않아 읽기 전용입니다. 수정한 .js 파일을 가져와 전체를 교체할 수 있습니다."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O script em produção é um pacote minificado (%@, com linhas muito longas) e não é adequado para edição no dispositivo, por isso está somente leitura. Você pode importar um arquivo .js editado para substituí-lo por completo."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "O script em produção é um pacote minificado (%@, com linhas muito longas) e não é adequado para edição no dispositivo, pelo que está apenas de leitura. Pode importar um ficheiro .js editado para o substituir por completo."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Yayındaki betik küçültülmüş bir paket (%@, çok uzun satırlar içeriyor) ve cihaz üzerinde düzenlemeye uygun olmadığı için salt okunur. Düzenlediğiniz bir .js dosyasını içe aktararak tamamını değiştirebilirsiniz."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目前線上腳本是壓縮過的打包產物（%@，含超長行），不適合在手機上直接編輯，已轉為唯讀。可以匯入改好的 .js 檔案整份取代。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "目前線上指令碼是壓縮過的封裝產物（%@，含超長行），不適合在手機上直接編輯，已轉為唯讀。可以匯入改好的 .js 檔案整份取代。"
+          }
+        }
+      }
+    },
+    "待部署文件": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "الملف المراد نشره"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zu veröffentlichende Datei"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "File to deploy"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Archivo por implementar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fichier à déployer"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "デプロイするファイル"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "배포할 파일"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Arquivo a implantar"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ficheiro a implementar"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dağıtılacak dosya"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "待部署檔案"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "待部署檔案"
+          }
+        }
+      }
+    },
+    "导入 .js 文件整体替换": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "استيراد ملف .js لاستبداله بالكامل"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mit .js-Datei ersetzen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Import a .js file to replace it"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importar un archivo .js para reemplazar"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importer un fichier .js pour remplacer"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".js ファイルを読み込んで全体を置き換え"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ".js 파일을 가져와 전체 교체"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importar um arquivo .js para substituir"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Importar um ficheiro .js para substituir"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Değiştirmek için .js dosyası içe aktar"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "匯入 .js 檔案整份取代"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "匯入 .js 檔案整份取代"
+          }
+        }
+      }
+    },
+    "重新选择文件": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "اختيار ملف آخر"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Andere Datei wählen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choose a different file"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Elegir otro archivo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Choisir un autre fichier"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ファイルを選び直す"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다른 파일 선택"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escolher outro arquivo"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Escolher outro ficheiro"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Başka dosya seç"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新選擇檔案"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "重新選擇檔案"
+          }
+        }
+      }
+    },
+    "（无正文）": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(بدون محتوى)"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(kein Inhalt)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(no message)"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(sin contenido)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(aucun contenu)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "（本文なし）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(내용 없음)"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(sem conteúdo)"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(sem conteúdo)"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "(içerik yok)"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "（無內容）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "（無內容）"
+          }
+        }
+      }
+    },
+    "3 小时": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 ساعات"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 Stunden"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 hours"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 horas"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 heures"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3時間"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3시간"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 horas"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 horas"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 saat"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 小時"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 小時"
+          }
+        }
+      }
+    },
+    "3 天": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 أيام"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 Tage"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 days"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 días"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 jours"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3日間"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3일"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 dias"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 dias"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 gün"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 天"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "3 天"
+          }
+        }
+      }
+    },
+    "历史日志": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "السجلات السابقة"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verlaufsprotokolle"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Historical Logs"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registros históricos"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Journaux historiques"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "履歴ログ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "기록 로그"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Logs históricos"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Registos históricos"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geçmiş günlükler"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "歷史日誌"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "歷史記錄"
+          }
+        }
+      }
+    },
+    "命中 %lld 条，已载入 %lld 条": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld مطابقة · %2$lld محمَّلة"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld Treffer · %2$lld geladen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld matched · %2$lld loaded"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld coincidencias · %2$lld cargados"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld résultats · %2$lld chargés"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld 件ヒット・%2$lld 件読み込み済み"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld건 일치 · %2$lld건 불러옴"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld correspondências · %2$lld carregados"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld correspondências · %2$lld carregados"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%1$lld eşleşme · %2$lld yüklendi"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "命中 %1$lld 條，已載入 %2$lld 條"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "命中 %1$lld 筆，已載入 %2$lld 筆"
+          }
+        }
+      }
+    },
+    "这段时间没有日志": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "لا توجد سجلات في هذه الفترة"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Keine Protokolle in diesem Zeitraum"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No logs in this period"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "No hay registros en este periodo"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aucun journal sur cette période"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "この期間のログはありません"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 기간에는 로그가 없습니다"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhum log neste período"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nenhum registo neste período"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu dönemde günlük yok"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這段時間沒有日誌"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "這段時間沒有記錄"
+          }
+        }
+      }
+    },
+    "换个时间范围看看。若这个 Worker 从未出现日志，多半是没有开启 Observability——在 wrangler.toml 里打开 [observability] 后重新部署即可。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "جرِّب نطاقًا زمنيًا آخر. إذا لم تظهر سجلات لهذا الـ Worker إطلاقًا، فالأرجح أن Observability معطَّل — فعِّل [observability] في ملف wrangler.toml ثم أعد النشر."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Probiere einen anderen Zeitraum. Wenn dieser Worker nie Protokolle zeigt, ist Observability vermutlich deaktiviert – aktiviere [observability] in der wrangler.toml und veröffentliche erneut."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Try another time range. If this Worker never shows logs, Observability is probably off — enable [observability] in wrangler.toml and redeploy."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Prueba con otro rango de tiempo. Si este Worker nunca muestra registros, es probable que Observability esté desactivado: actívalo con [observability] en wrangler.toml y vuelve a implementar."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Essayez une autre période. Si ce Worker n’affiche jamais de journaux, Observability est sans doute désactivé : activez [observability] dans wrangler.toml puis redéployez."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "別の期間を試してください。この Worker のログがまったく出ない場合は Observability が無効な可能性があります。wrangler.toml で [observability] を有効にして再デプロイしてください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다른 기간을 확인해 보세요. 이 Worker의 로그가 전혀 없다면 Observability가 꺼져 있을 수 있습니다. wrangler.toml에서 [observability]를 켜고 다시 배포하세요."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tente outro intervalo de tempo. Se este Worker nunca mostra logs, provavelmente o Observability está desativado: ative [observability] no wrangler.toml e implante novamente."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimente outro intervalo de tempo. Se este Worker nunca mostra registos, provavelmente o Observability está desativado: ative [observability] no wrangler.toml e implemente novamente."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Başka bir zaman aralığı deneyin. Bu Worker hiç günlük göstermiyorsa Observability kapalı olabilir: wrangler.toml içinde [observability] ayarını açıp yeniden dağıtın."
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "換個時間範圍看看。若這個 Worker 從未出現日誌，多半是沒有開啟 Observability——在 wrangler.toml 裡打開 [observability] 後重新部署即可。"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "換個時間範圍看看。若這個 Worker 從未出現記錄，多半是沒有開啟 Observability——在 wrangler.toml 裡打開 [observability] 後重新部署即可。"
+          }
+        }
+      }
+    },
+    "事件类型": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "نوع الحدث"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ereignistyp"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Event type"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipo de evento"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Type d’événement"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "イベントタイプ"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이벤트 유형"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipo de evento"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tipo de evento"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Olay türü"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "事件類型"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "事件類型"
+          }
+        }
+      }
+    },
+    "触发": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "المُشغِّل"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Auslöser"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Trigger"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activador"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Déclencheur"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トリガー"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "트리거"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gatilho"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Acionador"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tetikleyici"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "觸發"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "觸發"
+          }
+        }
+      }
+    },
+    "请求 ID": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "معرّف الطلب"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Anfrage-ID"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Request ID"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID de solicitud"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID de requête"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リクエスト ID"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "요청 ID"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID da requisição"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID do pedido"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "İstek kimliği"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請求 ID"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "請求 ID"
+          }
+        }
+      }
+    },
+    "Ray ID": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "معرّف Ray"
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray-ID"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray ID"
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID de Ray"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID Ray"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray ID"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray ID"
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID do Ray"
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ID do Ray"
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray kimliği"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray ID"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ray ID"
+          }
+        }
+      }
+    },
+    "该网址最近已扫描过，Cloudflare 暂不接受重复提交，请稍后再试。": {
+      "localizations": {
+        "ar": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "تم فحص هذا الرابط مؤخرًا. لا يقبل Cloudflare إعادة الإرسال حاليًا. حاول لاحقًا."
+          }
+        },
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Diese URL wurde kürzlich gescannt. Cloudflare nimmt derzeit keine erneute Einreichung an. Versuche es später erneut."
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "This URL was scanned recently. Cloudflare won't accept a repeat submission yet. Try again later."
+          }
+        },
+        "es-MX": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta URL se escaneó recientemente. Cloudflare aún no acepta un envío repetido. Inténtalo más tarde."
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cette URL a été analysée récemment. Cloudflare n'accepte pas encore une nouvelle soumission. Réessayez plus tard."
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "このURLは最近スキャンされました。Cloudflareは現在、再送信を受け付けていません。しばらくしてから再試行してください。"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "이 URL은 최근에 스캔되었습니다. Cloudflare가 아직 재제출을 받지 않습니다. 나중에 다시 시도하세요."
+          }
+        },
+        "pt-BR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Esta URL foi verificada recentemente. A Cloudflare ainda não aceita um novo envio. Tente novamente mais tarde."
+          }
+        },
+        "pt-PT": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Este URL foi analisado recentemente. A Cloudflare ainda não aceita um novo envio. Tente novamente mais tarde."
+          }
+        },
+        "tr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bu URL kısa süre önce tarandı. Cloudflare şu an yeniden gönderimi kabul etmiyor. Daha sonra tekrar deneyin."
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此網址最近已掃描過，Cloudflare 暫不接受重複提交，請稍後再試。"
+          }
+        },
+        "zh-HK": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "此網址最近已掃描過，Cloudflare 暫不接受重複提交，請稍後再試。"
           }
         }
       }
